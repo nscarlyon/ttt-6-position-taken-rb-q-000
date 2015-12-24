@@ -1,7 +1,6 @@
 
 def position_taken?(board, position)
 
-        # ard = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
         if board[position] == "X"
                 return true
